@@ -1,4 +1,5 @@
-*/ Now that we have the exact total of the amounts of debt owed by several countries, 
+/*
+Now that we have the exact total of the amounts of debt owed by several countries, 
 let's now find out the country that owns the highest amount of debt along with the amount. 
 Note that this debt is the sum of different debts owed by a country across several categories. 
 his will help to understand more about the country in terms of its socio-economic scenarios. 
